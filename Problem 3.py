@@ -11,3 +11,4 @@ if __name__ == '__main__':
     sq_of_s = rawsq_of_s * rawsq_of_s
     ans = sq_of_s - s_of_sq
     print(ans)
+
